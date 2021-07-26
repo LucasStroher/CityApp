@@ -37,6 +37,9 @@
                 <p id="y" style="display:none;"> </p>
                 <input type="submit" value="Relatar problema" class="botao mi--a" style="margin-top:16px; background-color:var(--cor-principal-3);">
             </form>
+            <form action="main-cidadao.php" method="POST">
+                <input type="submit" value="Página Inicial" class="botao mi--a" style="margin-top:16px; background-color:var(--cor-principal-3);">
+            </form>
         </div>
     </section>
 

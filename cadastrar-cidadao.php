@@ -40,6 +40,9 @@
             </div>
             <input type="submit" value="Cadastra-se" class="botao mi--a" style="margin-top:16px; background-color:var(--cor-principal-3);">
         </form>
+        <form action="index.php" method="POST">
+            <input type="submit" value="Volte para o Login" class="botao mi--a" style="margin-top:16px; background-color:var(--cor-principal-3);">
+        </form>
     </section>
 </body>
 </html>
